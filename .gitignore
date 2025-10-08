@@ -1,0 +1,7 @@
+# Vivado/Xilinx Files
+*.log
+*.jou
+*.xpr
+*.runs/
+*.sdk/
+*.ip_user_files/
